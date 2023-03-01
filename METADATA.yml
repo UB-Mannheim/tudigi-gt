@@ -1,0 +1,37 @@
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: tudigi-gt
+url: https://github.com/inschn/tudigi-gt.git
+authors:
+  - name: Schnell
+    surname: Ines
+    roles:
+      - transcriber
+description: Ground truth for digitized publications of ULB TU Darmstadt
+language:
+  - fra
+  - deu
+script:
+  - Latn
+  - Goth
+script-type: print
+time:
+  notBefore: '1913'
+  notAfter: '1913'
+hands:
+  count: '1'
+  level: level2
+license:
+  - name: CC0 1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtTyp: data_document
+format: Page-XML
+sources:
+  - reference: >-
+      von Schelling, C. (1913). Briefe aus der Frühromantik. (1. Band). Schmidt,
+      E. & Waitz, G.   Insel-Verlag. https://doi.org/10.25534/tudigit-15509
+    link: http://tudigit.ulb.tu-darmstadt.de/show/GK-9099-S322-1
+volume:
+  - metric: pages
+    count: 30
+transcription-guidelines: OCR-D Richtlinien
