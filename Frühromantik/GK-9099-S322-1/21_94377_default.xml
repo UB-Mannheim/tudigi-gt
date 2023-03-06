@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://tudigit.ulb.tu-darmstadt.de/iiifimage/GK-9099-S322-1/0022_0002.jpg/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-03-06T12:01:43.821494+00:00</Created>
+        <LastChange>2023-03-06T12:01:43.821528+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="21_94377_default.jpg" imageWidth="1493" imageHeight="2458">
+
+    
+    <TextRegion id="eSc_textblock_cd1d15f5"  >
+      <Coords points="222,2456 109,2456 92,2376 125,2359 244,2365 249,2429 200,2447 222,2456"/>
+      
+      
+      <TextLine id="eSc_line_7a36020a" >
+        <Coords points="215,2363 202,2362 188,2362 174,2361 161,2361 147,2359 133,2359 120,2361 106,2367 107,2381 107,2396 224,2396 225,2378 221,2363 215,2363"/>
+        <Baseline points="107,2381 225,2378"/>
+        <TextEquiv>
+          <Unicode>TECHINISCH</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_179da62a" >
+        <Coords points="103,2404 103,2421 230,2421 230,2404 230,2386 103,2386 103,2404"/>
+        <Baseline points="103,2404 230,2404"/>
+        <TextEquiv>
+          <Unicode>UNIVERSITAI</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_90241c9e" >
+        <Coords points="99,2426 101,2430 101,2447 230,2445 232,2427 228,2408 109,2410 99,2426"/>
+        <Baseline points="101,2430 232,2427"/>
+        <TextEquiv>
+          <Unicode>CARAASTAOI</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_1bdc1b0b"  >
+      <Coords points="1029,2434 1012,2456 665,2456 539,2451 463,2418 295,2418 284,2386 300,2376 1121,2376 1137,2402 1115,2429 1029,2434"/>
+      
+      
+      <TextLine id="eSc_line_4450bc2f" >
+        <Coords points="1118,2380 295,2380 295,2404 295,2419 1131,2419 1131,2404 1126,2388 1118,2380"/>
+        <Baseline points="295,2404 1131,2404"/>
+        <TextEquiv>
+          <Unicode>http:(tudigit.ulb.tu-darmstadt.deſshow(CK-9099-5322-1/0022</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c585e65d" >
+        <Coords points="535,2436 535,2452 1008,2453 1009,2436 1009,2414 535,2414 535,2436"/>
+        <Baseline points="535,2436 1009,2436"/>
+        <TextEquiv>
+          <Unicode>Universitäts- und Landesbibliothiek Darmistact</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_27435288"  >
+      <Coords points="38,2440 32,2419 81,2392 86,2434 38,2440"/>
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

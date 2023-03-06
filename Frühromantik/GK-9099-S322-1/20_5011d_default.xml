@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://tudigit.ulb.tu-darmstadt.de/iiifimage/GK-9099-S322-1/0021_0001.jpg/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-03-06T12:01:43.803184+00:00</Created>
+        <LastChange>2023-03-06T12:01:43.803223+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="20_5011d_default.jpg" imageWidth="1471" imageHeight="2440">
+
+    
+    <TextRegion id="eSc_textblock_6d1316d5"  >
+      <Coords points="642,307 611,302 627,254 653,265 642,307"/>
+      
+      
+      <TextLine id="eSc_line_a4eff24b" >
+        <Coords points="649,272 630,258 624,260 614,286 614,298 614,305 669,296 671,290 663,254 646,256 649,272"/>
+        <Baseline points="616,300 621,300 632,300 672,292"/>
+        <TextEquiv>
+          <Unicode>I</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_e4320b4d"  >
+      <Coords points="497,464 490,399 276,389 254,372 265,319 616,314 993,325 1010,394 795,405 740,481 540,486 497,464"/>
+      
+      
+      <TextLine id="eSc_line_0815f45b" >
+        <Coords points="996,344 909,326 908,326 907,326 905,326 893,336 798,325 797,325 795,325 794,325 794,326 780,338 776,342 748,342 744,337 733,328 733,326 732,326 730,326 729,326 728,326 709,336 707,337 704,336 686,323 684,323 683,323 681,323 680,323 650,334 643,337 635,334 622,328 620,328 619,328 618,328 604,333 596,336 587,333 558,322 557,322 555,322 554,322 538,330 524,338 470,338 386,337 347,325 325,319 324,319 322,319 271,322 261,334 261,364 260,401 412,403 413,403 414,403 433,397 454,405 456,405 458,405 459,405 460,405 462,405 462,403 482,384 536,384 551,398 551,399 553,399 554,399 555,399 614,386 637,405 637,406 638,406 639,406 641,406 642,406 690,391 733,401 734,401 736,401 763,389 814,389 822,395 822,397 824,397 825,397 827,397 860,390 870,398 871,398 873,398 874,398 875,398 905,390 925,410 925,412 927,412 928,412 930,413 1001,413 1003,375 1001,360 996,344"/>
+        <Baseline points="261,364 1003,375"/>
+        <TextEquiv>
+          <Unicode>Göttingen. Clausthal. Marburg</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9ac540e6" >
+        <Coords points="522,461 522,483 642,477 728,488 732,457 726,424 520,424 522,461"/>
+        <Baseline points="523,463 733,459"/>
+        <TextEquiv>
+          <Unicode>1778—1791</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_5bf60c98"  >
+      <Coords points="97,2358 135,2342 237,2353 237,2416 103,2422 97,2358"/>
+      
+      
+      <TextLine id="eSc_line_24da5331" >
+        <Coords points="211,2350 197,2349 184,2347 170,2345 157,2343 143,2342 130,2343 116,2349 111,2350 104,2365 104,2380 223,2380 225,2362 215,2350 211,2350"/>
+        <Baseline points="104,2365 225,2362"/>
+        <TextEquiv>
+          <Unicode>féctiNischil</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_dbde27fd" >
+        <Coords points="103,2388 103,2402 230,2402 230,2388 230,2370 103,2370 103,2388"/>
+        <Baseline points="103,2388 230,2388"/>
+        <TextEquiv>
+          <Unicode>UNIVERSITAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0666541e" >
+        <Coords points="100,2402 101,2412 101,2430 225,2429 226,2410 222,2392 107,2393 100,2402"/>
+        <Baseline points="101,2412 226,2410"/>
+        <TextEquiv>
+          <Unicode>OARMASTAOI</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_87fffd30"  >
+      <Coords points="535,2433 496,2406 287,2395 298,2364 871,2358 1102,2358 1118,2395 940,2438 535,2433"/>
+      
+      
+      <TextLine id="eSc_line_5b27bdb5" >
+        <Coords points="1103,2369 1094,2361 436,2361 425,2362 412,2362 398,2362 385,2362 371,2362 357,2362 344,2362 330,2362 317,2362 303,2362 294,2374 291,2387 291,2403 1109,2406 1111,2384 1107,2374 1103,2369"/>
+        <Baseline points="291,2387 1111,2384"/>
+        <TextEquiv>
+          <Unicode>http:(ftudigit.ulb.tu-darmstadt.deſshow(CK-9099-5322-1/0021</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fdbb1021" >
+        <Coords points="530,2418 530,2434 995,2437 996,2418 996,2397 530,2397 530,2418"/>
+        <Baseline points="530,2418 996,2418"/>
+        <TextEquiv>
+          <Unicode>Universitäts- und Landesbibliothiek Darmnstact</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_430d23a3"  >
+      <Coords points="70,2402 79,2402 79,2422 65,2422 70,2402"/>
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+    
+    
+      <TextLine id="eSc_line_0731937d" >
+        <Coords points="0,675 6,709 10,732 26,732 24,713 24,705 14,673 0,673 0,675"/>
+        <Baseline points="8,711 25,707"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_23235fe1" >
+        <Coords points="20,717 20,736 36,734 36,717 36,679 20,679 20,717"/>
+        <Baseline points="20,717 36,717"/>
+        <TextEquiv>
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
